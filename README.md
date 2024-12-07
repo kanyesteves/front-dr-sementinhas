@@ -1,5 +1,11 @@
-# Vue 3 + TypeScript + Vite
+# Front Drs. Sementinhas
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Bem-vindo à documentação do FrontEnd do projeto. Esta parte do projeto é onde vai ficar o código para parte visual e interativa do sistema. Abaixo estão os detalhes sobre como utilizar.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Sumário
+
+1. [Configurando Ambiente](#configurando-ambiente)
+   - [Clonar o repositório do projeto](#clonar-o-repositório-do-projeto)
+   - [Instale todas as dependências](#instale-todas-as-dependências)
+
+2. [Subindo o servidor](#acessando-a-api)
